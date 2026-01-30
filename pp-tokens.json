@@ -47,85 +47,85 @@
         "yellow": {
           "10": {
             "$type": "color",
-            "$value": "#FDF2CF"
+            "$value": "#F5E8B5"
           },
           "20": {
             "$type": "color",
-            "$value": "#FBDF86"
+            "$value": "#EED983"
           },
           "30": {
             "$type": "color",
-            "$value": "#F9D256"
+            "$value": "#E7CE64"
           },
           "40": {
             "$type": "color",
-            "$value": "#F8C425"
+            "$value": "#E0BB20"
           },
           "50": {
             "$type": "color",
-            "$value": "#F7BE0D"
+            "$value": "#DDB307"
           },
           "60": {
             "$type": "color",
-            "$value": "#DEAB0C"
+            "$value": "#C7A106"
           },
           "70": {
             "$type": "color",
-            "$value": "#C6980A"
+            "$value": "#B18F06"
           },
           "80": {
             "$type": "color",
-            "$value": "#947208"
+            "$value": "#856B04"
           },
           "90": {
             "$type": "color",
-            "$value": "#634C05"
+            "$value": "#584803"
           },
           "100": {
             "$type": "color",
-            "$value": "#312603"
+            "$value": "#2C2401"
           }
         },
-        "blue": {
+        "grey-2": {
           "10": {
             "$type": "color",
-            "$value": "#E7ECF3"
+            "$value": "#ECECEC"
           },
           "20": {
             "$type": "color",
-            "$value": "#B8C6DB"
+            "$value": "#C6C7C7"
           },
           "30": {
             "$type": "color",
-            "$value": "#A0B3CF"
+            "$value": "#9B9B9C"
           },
           "40": {
             "$type": "color",
-            "$value": "#5879AC"
+            "$value": "#88898A"
           },
           "50": {
             "$type": "color",
-            "$value": "#456AA2"
+            "$value": "#6C6C6E"
           },
           "60": {
             "$type": "color",
-            "$value": "#375F9B"
+            "$value": "#606163"
           },
           "70": {
             "$type": "color",
-            "$value": "#114088"
+            "$value": "#424345"
           },
           "80": {
             "$type": "color",
-            "$value": "#0C2D5F"
+            "$value": "#2E2F30"
           },
           "90": {
             "$type": "color",
-            "$value": "#092044"
+            "$value": "#212223"
           },
           "100": {
             "$type": "color",
-            "$value": "#030D1B"
+            "$value": "#0D0D0E"
           }
         },
         "green": {
@@ -485,59 +485,59 @@
         "accent-2": {
           "bg-document": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.10}"
+            "$value": "{leiderdorp.colors.grey-2.10}"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.10}"
+            "$value": "{leiderdorp.colors.grey-2.10}"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.10}"
+            "$value": "{leiderdorp.colors.grey-2.10}"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.20}"
+            "$value": "{leiderdorp.colors.grey-2.20}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.30}"
+            "$value": "{leiderdorp.colors.grey-2.30}"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.40}"
+            "$value": "{leiderdorp.colors.grey-2.40}"
           },
           "border-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.70}"
+            "$value": "{leiderdorp.colors.grey-2.70}"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.80}"
+            "$value": "{leiderdorp.colors.grey-2.80}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.90}"
+            "$value": "{leiderdorp.colors.grey-2.90}"
           },
           "color-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.70}"
+            "$value": "{leiderdorp.colors.grey-2.70}"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.80}"
+            "$value": "{leiderdorp.colors.grey-2.80}"
           },
           "color-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.90}"
+            "$value": "{leiderdorp.colors.grey-2.90}"
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.60}"
+            "$value": "{leiderdorp.colors.grey-2.60}"
           },
           "color-document": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.100}"
+            "$value": "{leiderdorp.colors.grey-2.100}"
           }
         },
         "accent-3": {
@@ -1239,39 +1239,39 @@
         "accent-2-inverse": {
           "bg-document": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.80}"
+            "$value": "{leiderdorp.colors.grey-2.80}"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.90}"
+            "$value": "{leiderdorp.colors.grey-2.90}"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.60}"
+            "$value": "{leiderdorp.colors.grey-2.60}"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.50}"
+            "$value": "{leiderdorp.colors.grey-2.50}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.80}"
+            "$value": "{leiderdorp.colors.grey-2.80}"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.70}"
+            "$value": "{leiderdorp.colors.grey-2.70}"
           },
           "border-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.40}"
+            "$value": "{leiderdorp.colors.grey-2.40}"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.30}"
+            "$value": "{leiderdorp.colors.grey-2.30}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.20}"
+            "$value": "{leiderdorp.colors.grey-2.20}"
           },
           "color-default": {
             "$type": "color",
@@ -1287,7 +1287,7 @@
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.blue.30}"
+            "$value": "{leiderdorp.colors.grey-2.30}"
           },
           "color-document": {
             "$type": "color",
@@ -2664,7 +2664,7 @@
       "form-control": {
         "accent-color": {
           "$type": "color",
-          "$value": "{basis.color.action-2.border-default}"
+          "$value": "{basis.color.action-1.border-default}"
         },
         "background-color": {
           "$type": "color",
@@ -2731,7 +2731,7 @@
         "active": {
           "accent-color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-active}"
+            "$value": "{basis.color.action-1.color-active}"
           },
           "background-color": {
             "$type": "color",
@@ -2789,7 +2789,7 @@
         "hover": {
           "accent-color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-hover}"
+            "$value": "{basis.color.action-1.color-hover}"
           },
           "background-color": {
             "$type": "color",
@@ -4414,7 +4414,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.default.bg-document}"
+            "$value": "{basis.color.default-inverse.bg-document}"
           }
         },
         "indeterminate": {
@@ -4432,7 +4432,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.default.bg-document}"
+            "$value": "{basis.color.default-inverse.bg-document}"
           }
         }
       }
@@ -4455,7 +4455,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.default.bg-document}"
+              "$value": "{basis.color.default-inverse.bg-document}"
             }
           },
           "disabled": {
@@ -4505,7 +4505,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.default.bg-document}"
+              "$value": "{basis.color.default-inverse.bg-document}"
             }
           }
         },
@@ -4525,7 +4525,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.default.bg-document}"
+              "$value": "{basis.color.default-inverse.bg-document}"
             }
           },
           "disabled": {
@@ -4575,7 +4575,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.default.bg-document}"
+              "$value": "{basis.color.default-inverse.bg-document}"
             }
           }
         }
@@ -8960,7 +8960,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.default.bg-document}"
+            "$value": "{basis.color.default-inverse.bg-document}"
           },
           "active": {
             "background-color": {
@@ -8977,7 +8977,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.default.bg-document}"
+              "$value": "{basis.color.default-inverse.bg-document}"
             }
           },
           "focus": {
@@ -9013,7 +9013,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.default.bg-document}"
+              "$value": "{basis.color.default-inverse.bg-document}"
             }
           }
         }
