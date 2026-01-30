@@ -240,7 +240,7 @@
       "fonts": {
         "secundary": {
           "$type": "fontFamilies",
-          "$value": "Open Sans, sans-serif"
+          "$value": "Inter"
         },
         "tertiary": {
           "$type": "fontFamilies",
@@ -248,7 +248,7 @@
         },
         "primary": {
           "$type": "fontFamilies",
-          "$value": "Source Sans Pro"
+          "$value": "Inter"
         }
       },
       "line-height": {
