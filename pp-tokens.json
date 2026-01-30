@@ -44,88 +44,88 @@
             "$value": "#0D1921"
           }
         },
-        "red": {
+        "yellow": {
           "10": {
             "$type": "color",
-            "$value": "#FFF0ED"
+            "$value": "#FDF2CF"
           },
           "20": {
             "$type": "color",
-            "$value": "#FEE0DA"
+            "$value": "#FBDF86"
           },
           "30": {
             "$type": "color",
-            "$value": "#FBC1B6"
+            "$value": "#F9D256"
           },
           "40": {
             "$type": "color",
-            "$value": "#ED826F"
+            "$value": "#F8C425"
           },
           "50": {
             "$type": "color",
-            "$value": "#D62410"
+            "$value": "#F7BE0D"
           },
           "60": {
             "$type": "color",
-            "$value": "#A91C09"
+            "$value": "#DEAB0C"
           },
           "70": {
             "$type": "color",
-            "$value": "#96190B"
+            "$value": "#C6980A"
           },
           "80": {
             "$type": "color",
-            "$value": "#6B1208"
+            "$value": "#947208"
           },
           "90": {
             "$type": "color",
-            "$value": "#400B05"
+            "$value": "#634C05"
           },
           "100": {
             "$type": "color",
-            "$value": "#250200"
+            "$value": "#312603"
           }
         },
         "blue": {
           "10": {
             "$type": "color",
-            "$value": "#F2F7FB"
+            "$value": "#E7ECF3"
           },
           "20": {
             "$type": "color",
-            "$value": "#E9F2F9"
+            "$value": "#B8C6DB"
           },
           "30": {
             "$type": "color",
-            "$value": "#BED7EC"
+            "$value": "#A0B3CF"
           },
           "40": {
             "$type": "color",
-            "$value": "#7CAFD7"
+            "$value": "#5879AC"
           },
           "50": {
             "$type": "color",
-            "$value": "#057ABA"
+            "$value": "#456AA2"
           },
           "60": {
             "$type": "color",
-            "$value": "#0469A1"
+            "$value": "#375F9B"
           },
           "70": {
             "$type": "color",
-            "$value": "#035989"
+            "$value": "#114088"
           },
           "80": {
             "$type": "color",
-            "$value": "#013A5C"
+            "$value": "#0C2D5F"
           },
           "90": {
             "$type": "color",
-            "$value": "#012B46"
+            "$value": "#092044"
           },
           "100": {
             "$type": "color",
-            "$value": "#001D32"
+            "$value": "#030D1B"
           }
         },
         "green": {
@@ -222,9 +222,7 @@
             "$value": "#000000"
           }
         }
-      }
-    },
-    "leiden": {
+      },
       "font-weight": {
         "bold": {
           "$type": "fontWeights",
@@ -250,7 +248,7 @@
         },
         "primary": {
           "$type": "fontFamilies",
-          "$value": "Poppins, sans-serif"
+          "$value": "Source Sans Pro"
         }
       },
       "line-height": {
@@ -277,21 +275,21 @@
         "font-family": {
           "default": {
             "$type": "fontFamilies",
-            "$value": "{leiden.fonts.secundary}"
+            "$value": "{leiderdorp.fonts.secundary}"
           },
           "monospace": {
             "$type": "fontFamilies",
-            "$value": "{leiden.fonts.tertiary}"
+            "$value": "{leiderdorp.fonts.tertiary}"
           }
         },
         "font-weight": {
           "default": {
             "$type": "fontWeights",
-            "$value": "{leiden.font-weight.regular}"
+            "$value": "{leiderdorp.font-weight.regular}"
           },
           "bold": {
             "$type": "fontWeights",
-            "$value": "{leiden.font-weight.bold}"
+            "$value": "{leiderdorp.font-weight.bold}"
           }
         },
         "font-size": {
@@ -429,59 +427,59 @@
         "accent-1": {
           "bg-document": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.10}"
+            "$value": "{leiderdorp.colors.yellow.10}"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.10}"
+            "$value": "{leiderdorp.colors.yellow.10}"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.10}"
+            "$value": "{leiderdorp.colors.yellow.10}"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.20}"
+            "$value": "{leiderdorp.colors.yellow.20}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.30}"
+            "$value": "{leiderdorp.colors.yellow.30}"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.40}"
+            "$value": "{leiderdorp.colors.yellow.40}"
           },
           "border-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.50}"
+            "$value": "{leiderdorp.colors.yellow.50}"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.60}"
+            "$value": "{leiderdorp.colors.yellow.60}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.70}"
+            "$value": "{leiderdorp.colors.yellow.70}"
           },
           "color-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.50}"
+            "$value": "{leiderdorp.colors.yellow.50}"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.60}"
+            "$value": "{leiderdorp.colors.yellow.60}"
           },
           "color-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.70}"
+            "$value": "{leiderdorp.colors.yellow.70}"
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.50}"
+            "$value": "{leiderdorp.colors.yellow.50}"
           },
           "color-document": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.100}"
+            "$value": "{leiderdorp.colors.yellow.100}"
           }
         },
         "accent-2": {
@@ -1183,39 +1181,39 @@
         "accent-1-inverse": {
           "bg-document": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.80}"
+            "$value": "{leiderdorp.colors.yellow.80}"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.90}"
+            "$value": "{leiderdorp.colors.yellow.90}"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.50}"
+            "$value": "{leiderdorp.colors.yellow.50}"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.60}"
+            "$value": "{leiderdorp.colors.yellow.30}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.80}"
+            "$value": "{leiderdorp.colors.yellow.80}"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.80}"
+            "$value": "{leiderdorp.colors.yellow.80}"
           },
           "border-default": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.40}"
+            "$value": "{leiderdorp.colors.yellow.40}"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.30}"
+            "$value": "{leiderdorp.colors.yellow.30}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.20}"
+            "$value": "{leiderdorp.colors.yellow.20}"
           },
           "color-default": {
             "$type": "color",
@@ -1231,7 +1229,7 @@
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "{leiderdorp.colors.red.30}"
+            "$value": "{leiderdorp.colors.yellow.30}"
           },
           "color-document": {
             "$type": "color",
@@ -2696,7 +2694,7 @@
         },
         "font-family": {
           "$type": "fontFamilies",
-          "$value": "{leiden.fonts.secundary}"
+          "$value": "{leiderdorp.fonts.secundary}"
         },
         "font-size": {
           "$type": "fontSizes",
@@ -2704,7 +2702,7 @@
         },
         "font-weight": {
           "$type": "fontWeights",
-          "$value": "{leiden.font-weight.regular}"
+          "$value": "{leiderdorp.font-weight.regular}"
         },
         "line-height": {
           "$type": "lineHeights",
@@ -2850,11 +2848,11 @@
         },
         "font-family": {
           "$type": "fontFamilies",
-          "$value": "{leiden.fonts.primary}"
+          "$value": "{leiderdorp.fonts.primary}"
         },
         "font-weight": {
           "$type": "fontWeights",
-          "$value": "{leiden.font-weight.bold}"
+          "$value": "{leiderdorp.font-weight.bold}"
         }
       },
       "page": {
@@ -2876,11 +2874,11 @@
       "logo": {
         "width": {
           "$type": "dimension",
-          "$value": "{leiden.logo.width}"
+          "$value": "{leiderdorp.logo.width}"
         },
         "height": {
           "$type": "dimension",
-          "$value": "{leiden.logo.heigth}"
+          "$value": "{leiderdorp.logo.heigth}"
         }
       }
     }
@@ -3461,7 +3459,7 @@
         }
       }
     },
-    "leiden": {
+    "leiderdorp": {
       "blockquote": {
         "line-height": {
           "$type": "lineHeights",
@@ -3856,7 +3854,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-1-inverse.color-default}"
+            "$value": "{basis.color.default.color-document}"
           },
           "font-size": {
             "$type": "fontSizes",
@@ -3881,7 +3879,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.color-active}"
+              "$value": "{basis.color.default-inverse.color-default}"
             }
           },
           "disabled": {
@@ -3923,7 +3921,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.color-hover}"
+              "$value": "{basis.color.default.color-document}"
             }
           },
           "pressed": {
@@ -3937,7 +3935,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.color-active}"
+              "$value": "{basis.color.default.color-document}"
             }
           }
         },
